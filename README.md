@@ -1,4 +1,4 @@
->Esse projeto, é o primeiro dentre outros de um projeto maior, que visa estudar microservice com Spring.
+>Esse projeto, é o primeiro dentre outros de um projeto maior, que visa estudar microservice com NestJS e Typescript.
 
 > Para saber mais informações acesse o "[Projeto Pai](https://github.com/andrepixel/microservice_nestjs/)"
 
