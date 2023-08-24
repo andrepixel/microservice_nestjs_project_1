@@ -1,0 +1,3 @@
+class KafkaDTO {
+  ticketDTO: TicketDTO;
+}
