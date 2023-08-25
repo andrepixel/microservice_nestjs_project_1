@@ -1,6 +1,6 @@
-enum ListOfCompanies {
-    ENTERPRISE,
-    COSTELACION,
-    BROTHER_OF_STELL,
-    STARFIELD,
+export enum ListOfCompanies {
+  ENTERPRISE,
+  COSTELACION,
+  BROTHER_OF_STELL,
+  STARFIELD,
 }
